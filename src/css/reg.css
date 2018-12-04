@@ -1,0 +1,252 @@
+.all {
+  background: #f9f9f8; }
+
+.top {
+  height: 110px; }
+  .top .con2 {
+    height: 110px; }
+    .top .con2 .top_logo {
+      float: left;
+      margin-top: 29px; }
+      .top .con2 .top_logo .fl {
+        display: inline; }
+        .top .con2 .top_logo .fl a {
+          color: #666; }
+
+.main .con2 .main_c {
+  width: 100%;
+  height: auto;
+  background: #fff;
+  border: 1px solid #e1dfda; }
+  .main .con2 .main_c .center_t {
+    height: 51px;
+    border-bottom: 1px solid #e1dfda;
+    padding: 10px 20px;
+    line-height: 30px; }
+    .main .con2 .main_c .center_t .title {
+      float: left;
+      font-size: 16px;
+      font-family: 'Microsoft YaHei';
+      color: #ff002a; }
+    .main .con2 .main_c .center_t .login {
+      float: right;
+      font-family: 'Microsoft YaHei';
+      color: #63625d; }
+      .main .con2 .main_c .center_t .login a {
+        color: #0088cc; }
+  .main .con2 .main_c .center_b {
+    height: auto;
+    padding: 50px 0px 74px 191px; }
+    .main .con2 .main_c .center_b form {
+      display: block; }
+      .main .con2 .main_c .center_b form .info {
+        position: relative; }
+        .main .con2 .main_c .center_b form .info .info1 {
+          padding: 10px 0px;
+          display: block;
+          height: 56px; }
+          .main .con2 .main_c .center_b form .info .info1 .name {
+            float: left;
+            font-size: 15px;
+            font-family: 'Microsoft YaHei';
+            color: #333333;
+            float: left;
+            width: 136px;
+            text-align: right;
+            line-height: 36px; }
+            .main .con2 .main_c .center_b form .info .info1 .name i {
+              color: #df3d36; }
+          .main .con2 .main_c .center_b form .info .info1 .input {
+            float: left;
+            padding-left: 5px;
+            display: inline; }
+            .main .con2 .main_c .center_b form .info .info1 .input .input2 {
+              position: relative;
+              display: block; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input {
+                line-height: 34px;
+                font-size: 16px;
+                vertical-align: middle;
+                padding: 0 10px 0 30px;
+                text-indent: 0px;
+                font-size: 12px;
+                font-family: 'Microsoft YaHei';
+                color: #000;
+                border-radius: 2px;
+                border: 1px solid #cccccc;
+                height: 34px; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input:hover {
+                border-color: #000; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input.one {
+                width: 258px;
+                background: #ffffff url(img/register.png) no-repeat 10px 9px; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input.two {
+                width: 258px;
+                background: #ffffff url(img/register.png) no-repeat 10px -52px; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input.three {
+                width: 258px;
+                background: #ffffff url(img/register.png) no-repeat 10px -52px; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input.four {
+                width: 258px;
+                background: #ffffff url(img/register.png) no-repeat 10px -180px; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input.five {
+                width: 258px;
+                background: #ffffff url(img/register.png) no-repeat 10px -52px; }
+              .main .con2 .main_c .center_b form .info .info1 .input .input2 input.six {
+                width: 258px;
+                background: #ffffff url(img/register.png) no-repeat 10px -287px; }
+          .main .con2 .main_c .center_b form .info .info1 ul.tishi {
+            float: left;
+            line-height: 36px;
+            margin-left: 10px; }
+            .main .con2 .main_c .center_b form .info .info1 ul.tishi li {
+              display: none; }
+              .main .con2 .main_c .center_b form .info .info1 ul.tishi li i {
+                float: left;
+                width: 16px;
+                line-height: 0px;
+                height: 16px;
+                margin-top: 10px;
+                width: 16px;
+                height: 16px; }
+              .main .con2 .main_c .center_b form .info .info1 ul.tishi li span {
+                float: left;
+                margin-left: 8px;
+                display: inline;
+                line-height: 36px;
+                padding-right: 6px; }
+          .main .con2 .main_c .center_b form .info .info1 .code {
+            float: left;
+            width: 90px;
+            height: 36px;
+            font-size: 20px;
+            color: #fff;
+            line-height: 36px;
+            text-align: center;
+            margin: 0 11px 0 10px;
+            background: #ccc; }
+          .main .con2 .main_c .center_b form .info .info1 label {
+            float: left;
+            height: 36px;
+            line-height: 36px;
+            color: #706e69;
+            font-family: 'Microsoft YaHei'; }
+            .main .con2 .main_c .center_b form .info .info1 label a {
+              color: #0084cc;
+              text-decoration: underline; }
+          .main .con2 .main_c .center_b form .info .info1 .getCode {
+            float: left;
+            line-height: 36px;
+            margin-left: 10px; }
+            .main .con2 .main_c .center_b form .info .info1 .getCode button {
+              width: 90px;
+              height: 36px;
+              border: 1px solid #c8c8c8;
+              background: #f5f5f5;
+              cursor: pointer; }
+        .main .con2 .main_c .center_b form .info .remember {
+          height: 25px;
+          padding-left: 140px;
+          line-height: 18px;
+          overflow: hidden;
+          padding-top: 5px;
+          color: #666666;
+          background: #fff; }
+          .main .con2 .main_c .center_b form .info .remember label {
+            float: left;
+            cursor: pointer;
+            outline: none;
+            padding-right: 10px; }
+            .main .con2 .main_c .center_b form .info .remember label input {
+              display: inline-block;
+              width: 20px;
+              height: 15px;
+              float: left;
+              border: 1px solid #55779b;
+              margin-top: 2px; }
+            .main .con2 .main_c .center_b form .info .remember label span {
+              float: left;
+              margin-left: 24px;
+              display: inline;
+              font-family: 'Microsoft YaHei'; }
+          .main .con2 .main_c .center_b form .info .remember a {
+            color: #0088ca;
+            float: left;
+            display: inline; }
+          .main .con2 .main_c .center_b form .info .remember span.agree {
+            float: left;
+            margin-left: 10px;
+            display: none;
+            color: pink;
+            font-family: 'Microsoft YaHei'; }
+        .main .con2 .main_c .center_b form .info .last {
+          margin-top: 10px;
+          padding-left: 134px;
+          height: 36px;
+          overflow: hidden; }
+          .main .con2 .main_c .center_b form .info .last button {
+            cursor: pointer;
+            border: 0;
+            text-align: center;
+            font-family: 'Microsoft YaHei';
+            width: 300px;
+            margin-left: 6px;
+            color: #ffffff;
+            background: #e6133c;
+            font-size: 16px;
+            height: 36px; }
+          .main .con2 .main_c .center_b form .info .last button:hover {
+            background: pink; }
+
+.bottom_b {
+  line-height: 24px;
+  text-align: center;
+  padding: 15px 0 0;
+  color: #999;
+  background: #f3f3f3; }
+  .bottom_b span {
+    padding: 0 8px; }
+  .bottom_b div {
+    display: block; }
+    .bottom_b div a {
+      color: #333; }
+    .bottom_b div a:hover {
+      color: #ff6f6f; }
+    .bottom_b div span {
+      padding: 0 8px; }
+  .bottom_b .copy {
+    display: block; }
+    .bottom_b .copy span {
+      padding: 0 8px;
+      color: #ccc; }
+  .bottom_b a.message {
+    font-size: 12px;
+    padding-top: 5px;
+    color: #666; }
+  .bottom_b .police {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 20px;
+    background: #f3f3f3; }
+    .bottom_b .police a {
+      display: inline-block;
+      text-decoration: none;
+      height: 20px;
+      line-height: 20px;
+      margin-right: 10px;
+      color: #333; }
+      .bottom_b .police a img {
+        float: left;
+        display: inline; }
+      .bottom_b .police a img.gongs {
+        width: 20px;
+        height: 21px; }
+      .bottom_b .police a span {
+        float: left;
+        display: inline;
+        height: 20px;
+        line-height: 20px;
+        margin: 0 0 0 5px;
+        color: #999; }
+
+/*# sourceMappingURL=reg.css.map */

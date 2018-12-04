@@ -1,0 +1,314 @@
+@charset "utf-8";
+
+.all{
+    background: #f9f9f8;
+}
+.top{
+    height: 110px;
+    .con2{
+        height: 110px;
+        .top_logo{
+            float: left;
+            margin-top: 29px;
+            .fl{
+                display: inline;
+                a{
+                    color: #666;
+                }
+            }
+        }
+    }
+}
+
+.main{
+    .con2{
+        .main_c{
+            width: 100%;
+            height: auto;
+            background: #fff;
+            border: 1px solid #e1dfda;
+            .center_t{
+                height: 51px;
+                border-bottom: 1px solid #e1dfda;
+                padding: 10px 20px;
+                line-height: 30px;
+                .title{
+                    float: left;
+                    font-size: 16px;
+                    font-family: 'Microsoft YaHei';
+                    color: #ff002a;
+                }
+                .login{
+                    float: right;
+                    font-family: 'Microsoft YaHei';
+                    color: #63625d;
+                    a{
+                        color: #0088cc;
+                    }
+                }
+            }
+            .center_b{
+                height: auto;
+                padding: 50px 0px 74px 191px;
+                form{
+                    display: block;
+                    .info{
+                        position: relative;
+                        .info1{
+                            padding: 10px 0px;
+                            display: block;
+                            height: 56px;
+                            .name{
+                                float: left;
+                                font-size: 15px;
+                                font-family: 'Microsoft YaHei';
+                                color: #333333;
+                                float: left;
+                                width: 136px;
+                                text-align: right;
+                                line-height: 36px;
+                                i{
+                                    color: #df3d36;
+                                }
+                            }
+                            .input{
+                                float: left;
+                                padding-left: 5px;
+                                display: inline;
+                                .input2{
+                                    position: relative;
+                                    display: block;
+                                    input{
+                                        line-height: 34px;
+                                        font-size: 16px;
+                                        vertical-align: middle;
+                                        padding: 0 10px 0 30px;
+                                        text-indent: 0px;
+                                        font-size: 12px;
+                                        font-family: 'Microsoft YaHei';
+                                        color: #000;
+                                        border-radius: 2px;
+                                        border: 1px solid #cccccc;
+                                        height: 34px;
+                                    }
+                                    input:hover{
+                                        border-color: #000;
+                                    }
+                                    input.one{
+                                            width: 258px;
+                                            background: #ffffff url(img/register.png) no-repeat 10px 9px;
+                                    }
+                                    input.two{
+                                        width: 258px;
+                                        background: #ffffff url(img/register.png) no-repeat 10px -52px;
+                                    }
+                                    input.three{
+                                        width: 258px;
+                                        background: #ffffff url(img/register.png) no-repeat 10px -52px;
+                                    }
+                                    input.four{
+                                        width: 258px;
+                                        background: #ffffff url(img/register.png) no-repeat 10px -180px;
+                                    }
+                                    input.five{
+                                        width: 258px;
+                                        background: #ffffff url(img/register.png) no-repeat 10px -52px;
+                                    }
+                                    input.six{
+                                        width: 258px;
+                                        background: #ffffff url(img/register.png) no-repeat 10px -287px;
+                                    }
+                                }                         
+                            }
+                            ul.tishi{
+                                float: left;
+                                line-height: 36px;
+                                margin-left: 10px;
+                                li{
+                                    display: none;
+                                    i{
+                                        float: left;
+                                        width: 16px;
+                                        line-height: 0px;
+                                        height: 16px;
+                                        margin-top: 10px;
+                                        width: 16px;
+                                        height: 16px;
+                                    }
+                                    span{
+                                        float: left;
+                                        margin-left: 8px;
+                                        display: inline;
+                                        line-height: 36px;
+                                        padding-right: 6px;
+                                    }
+                                }
+                            }
+                            .code{
+                                float: left;
+                                width: 90px;
+                                height: 36px;
+                                font-size: 20px;
+                                color: #fff;
+                                line-height: 36px;
+                                text-align: center;
+                                margin: 0 11px 0 10px;
+                                background: #ccc;
+                            }
+                            label{
+                                float: left;
+                                height: 36px;
+                                line-height: 36px;
+                                color: #706e69;
+                                font-family: 'Microsoft YaHei';
+                                a{
+                                    color: #0084cc;
+                                    text-decoration: underline;
+                                }
+                            }
+                            .getCode{
+                                float: left;
+                                line-height: 36px;
+                                margin-left: 10px;
+                                button{
+                                    width: 90px;
+                                    height: 36px;
+                                    border: 1px solid #c8c8c8;
+                                    background: #f5f5f5;
+                                    cursor: pointer;
+                                }
+                            }
+                        }
+                        .remember{
+                            height: 25px;
+                            padding-left: 140px;
+                            line-height: 18px;
+                            overflow: hidden;
+                            padding-top: 5px;
+                            color: #666666;
+                            background: #fff;
+                            label{
+                                float: left;
+                                cursor: pointer;
+                                outline: none;
+                                padding-right: 10px;
+                                input{
+                                    display: inline-block;
+                                    width: 20px;
+                                    height: 15px;
+                                    float: left;
+                                    border: 1px solid #55779b;
+                                    margin-top: 2px;
+                                }
+                                span{
+                                    float: left;
+                                    margin-left: 24px;
+                                    display: inline;
+                                    font-family: 'Microsoft YaHei';
+                                }
+                            }
+                            a{
+                                color: #0088ca;
+                                float: left;
+                                display: inline;
+                            }
+                            span.agree{
+                                float: left;
+                                margin-left: 10px;
+                                display: none;
+                                color: pink;
+                                font-family: 'Microsoft YaHei';
+                            }
+                        }
+                        .last{
+                            margin-top: 10px;
+                            padding-left: 134px;
+                            height: 36px;
+                            overflow: hidden;
+                            button{
+                                cursor: pointer;
+                                border: 0;
+                                text-align: center;
+                                font-family: 'Microsoft YaHei';
+                                width: 300px;
+                                margin-left: 6px;
+                                color: #ffffff;
+                                background: #e6133c;
+                                font-size: 16px;
+                                height: 36px;
+                            }
+                            button:hover{
+                                background: pink;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.bottom_b{
+            line-height: 24px;
+            text-align: center;
+            padding: 15px 0 0;
+            color: #999;
+            background: #f3f3f3;
+            span{
+                padding: 0 8px;
+            }
+            div{
+                display: block;
+                a{
+                    color: #333;
+                }
+                a:hover{
+                    color: #ff6f6f;
+                }
+                span{
+                    padding: 0 8px;
+                }
+            }
+            .copy{
+                display: block;
+                span{
+                    padding: 0 8px;
+                    color: #ccc;
+                }
+            }
+            a.message{
+                font-size: 12px;
+                padding-top: 5px;
+                color: #666;
+            }
+            .police{
+                width: 100%;
+                text-align: center;
+                padding: 10px 0 20px;
+                background: #f3f3f3;
+                a{
+                    display: inline-block;
+                    text-decoration: none;
+                    height: 20px;
+                    line-height: 20px;
+                    margin-right: 10px;
+                    color: #333;
+                    img{
+                        float: left;
+                        display: inline;
+                    }
+                    img.gongs{
+                        width: 20px;
+                        height: 21px;
+                    }
+                    span{
+                        float: left;
+                        display: inline;
+                        height: 20px;
+                        line-height: 20px;
+                        margin: 0 0 0 5px;
+                        color: #999;
+                    }
+                }
+            }
+        }
